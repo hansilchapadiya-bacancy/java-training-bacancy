@@ -11,6 +11,9 @@ public class Main {
                 { "Dieting, Maths, Excercise" }, { "Music", "Movies", "Singing" },
                 { "Flying", "Swimming", "Reading" } };
 
+        // Person p1 = new PersonClass();
+        // System.out.println(p1.toString1());
+
         PersonClass p[] = new PersonClass[3];
 
         for (int i = 0; i < p.length; i++) {

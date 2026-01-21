@@ -50,4 +50,7 @@ public class PersonClass implements Person {
 
     }
 
+    public String toString1(){
+        return "For Person Identity";
+    }
 }
